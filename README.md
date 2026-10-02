@@ -1,1 +1,91 @@
-# Fia---Financial-IA-Asistant
+# FIA — Asistente de Finanzas por IA 
+
+Asistente de contabilidad básica para finanzas personales.
+Aplicación creada con Google AI Studio (Gemini) para ayudar a cualquier persona a gestionar sus ingresos, gastos y hábitos financieros de forma sencilla e intuitiva.
+
+## 📸 Visualización
+
+<p align="left">
+<img src="Screenshots/App_prueba.png" width="250">
+</p>
+
+<p align="left">
+<img src="Screenshots/App_prueba2.png" width="250">
+</p>
+
+<p align="left">
+<img src="Screenshots/IA.png" width="250">
+</p>
+
+## ¿Qué es FIA?
+FIA es una aplicación web ligera que utiliza modelos de IA para ofrecer orientación financiera básica, responder preguntas sobre contabilidad personal y ayudar a los usuarios a entender mejor su situación económica.
+
+Su objetivo es democratizar la educación financiera mediante una interfaz simple y accesible.
+
+## Funcionalidades principales
+__1. Registro y análisis de ingresos y gastos__
+
+Explica conceptos, clasifica movimientos y ayuda a entender patrones financieros.
+
+__2. Asesoramiento financiero básico__
+
+Responde preguntas sobre ahorro, presupuestos, deudas y planificación personal.
+
+__3. Explicaciones claras y educativas__
+
+Ideal para usuarios sin conocimientos previos de contabilidad.
+
+__4. Interfaz rápida y minimalista__
+
+Construida con React + TypeScript para una experiencia fluida.
+
+## 🛠️ Tecnologías utilizadas ## 
+__Área	Tecnologías__
+
+IA	Google AI Studio (Gemini API)
+Frontend	React, TypeScript
+Entorno	Node.js, Vite
+Configuración	Variables de entorno (.env.local)
+
+## Cómo ejecutar la app localmente ##
+Sigue estos pasos para correr la aplicación en tu equipo:
+
+__Instalar Node.js__
+Asegúrate de tener Node.js instalado.
+
+__Instalar dependencias__
+
+__bash__
+npm install
+Configurar la clave de API  
+Crea un archivo .env.local en la raíz del proyecto e incluye tu clave de Gemini:
+
+__Código__
+GEMINI_API_KEY = tu_api_key_aquí
+Iniciar el servidor de desarrollo
+
+__bash__
+npm run dev
+Abrir la aplicación  
+Accede desde tu navegador a la URL que aparece en consola.
+
+## 🌐 __Versión online__ 
+Puedes ver la app directamente desde Google AI Studio:
+https://ai.studio/apps/9580be97-2be2-4095-9118-8ecc62ee91a4
+
+## Objetivo del proyecto 
+Este proyecto forma parte de mi portfolio profesional como Analista de Datos / BI, demostrando:
+
+Integración de IA generativa en aplicaciones reales
+
+Buenas prácticas de desarrollo frontend
+
+Capacidad para crear herramientas educativas y funcionales
+
+Documentación clara y orientada al usuario
+
+
+
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>

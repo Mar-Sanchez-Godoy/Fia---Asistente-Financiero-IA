@@ -89,3 +89,38 @@ Documentación clara y orientada al usuario
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
+
+# Ejecutar y desplegar tu aplicación de AI Studio
+
+Aquí tienes todo lo necesario para ejecutar tu aplicación de forma local.
+
+Ver tu aplicación en AI Studio:
+https://ai.studio/apps/9580be97-2be2-4095-9118-8ecc62ee91a4
+
+## Ejecutarla localmente
+
+Requisito previo: tener Node.js instalado.
+
+1. Instalar las dependencias
+
+Abre una terminal en la carpeta de tu proyecto y ejecuta:
+
+npm install
+
+Este comando instalará todas las librerías y dependencias que necesita la aplicación.
+
+2. Configurar la API de Gemini
+
+En el archivo .env.local, introduce tu clave de API de Gemini:
+
+GEMINI_API_KEY=TU_CLAVE_DE_GEMINI
+
+Importante: no compartas esta clave públicamente ni la subas a GitHub.
+
+3. Ejecutar la aplicación
+
+Una vez instaladas las dependencias y configurada la API, ejecuta:
+
+npm run dev
+
+La aplicación se iniciará en tu ordenador y la terminal te mostrará la dirección local desde la que podrás abrirla en el navegador.

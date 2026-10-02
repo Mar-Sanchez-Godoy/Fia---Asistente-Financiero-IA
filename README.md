@@ -6,15 +6,15 @@ Aplicación creada con Google AI Studio (Gemini) para ayudar a cualquier persona
 ## 📸 Visualización
 
 <p align="left">
-<img src="Screenshots/App_prueba.png" width="250">
+<img src="Capturas/App_prueba.png" width="250">
 </p>
 
 <p align="left">
-<img src="Screenshots/App_prueba2.png" width="250">
+<img src="Capturas/App_prueba2.png" width="250">
 </p>
 
 <p align="left">
-<img src="Screenshots/IA.png" width="250">
+<img src="Capturas/IA.png" width="250">
 </p>
 
 ## ¿Qué es FIA?
